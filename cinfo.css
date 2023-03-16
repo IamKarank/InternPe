@@ -1,0 +1,49 @@
+#txt1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    background-color: yellowgreen;
+    color: black;
+    text-align: center;
+}
+#txt2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color: aliceblue;
+    color: black;
+    text-align: justify;
+}
+#txt3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color: aliceblue;
+    color: black;
+    text-align: justify;
+}
+#txt4,#txt5{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        background-color: aliceblue;
+        color: black;
+        text-align: justify;
+}
+#txt6{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color:azure;
+    color: black;
+    text-align: justify;
+}
+#txt7{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color:blanchedalmond;
+    color: black;
+    text-align: justify;
+}
+#txt8{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color:cornsilk;
+    color:blue;
+    text-align: justify;
+}
